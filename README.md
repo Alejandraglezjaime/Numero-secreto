@@ -6,4 +6,4 @@ Este repositorio es una version mejorada del anterior repositorio, hemos mejorad
 
 ***!IMPORTANTE!** el juego es pasa uso exclusivo en computadora, no esta diseñado para uso responsivo,*
 
-![Imagen de la pantalla] (https://github.com/Alejandraglezjaime/Numero-secreto/blob/master/img/pantallaPrincipal.jpg?raw=true)
+![Imagen de la pantalla](https://github.com/Alejandraglezjaime/Numero-secreto/blob/master/img/pantallaPrincipal.jpg?raw=true)
